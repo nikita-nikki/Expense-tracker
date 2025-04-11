@@ -2,7 +2,7 @@
 
 A simple and elegant web-based Expense Tracker that lets users keep track of their expenses with a clean UI and persistent data using localStorage.
 
-![screenshot](ss.png)
+![screenshot](ss.png.jpg)
 
 ## ✨ Features
 
