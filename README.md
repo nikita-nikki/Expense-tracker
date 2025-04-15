@@ -31,7 +31,7 @@ A simple and elegant web-based Expense Tracker that lets users keep track of the
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-nikita-nikki/Expense-tracker.git
+git clone https://github.com/nikita-nikki/Expense-tracker.git
 cd Expense-tracker
 ```
 
