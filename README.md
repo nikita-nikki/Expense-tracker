@@ -2,7 +2,7 @@
 
 A simple and elegant web-based Expense Tracker that lets users keep track of their expenses with a clean UI and persistent data using localStorage.
 
-![screenshot](ss.png)
+![screenshot](ss.png.jpg)
 
 ## ✨ Features
 
@@ -31,8 +31,8 @@ A simple and elegant web-based Expense Tracker that lets users keep track of the
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/expense-tracker.git
-cd expense-tracker
+git clone https://github.com/your-nikita-nikki/Expense-tracker.git
+cd Expense-tracker
 ```
 
 2. Open `index.html` in your browser:
